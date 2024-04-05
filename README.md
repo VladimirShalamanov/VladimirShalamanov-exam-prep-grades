@@ -1,0 +1,1 @@
+[![Build-Test Grades App](https://github.com/VladimirShalamanov/VladimirShalamanov-exam-prep-grades/actions/workflows/pipeline.yml/badge.svg)](https://github.com/VladimirShalamanov/VladimirShalamanov-exam-prep-grades/actions/workflows/pipeline.yml)

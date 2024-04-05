@@ -1,4 +1,4 @@
-name: Build-Test Grades App
+name: Build-Test-Deploy Grades App
 on:
   push:
     branches: [ "main" ]
